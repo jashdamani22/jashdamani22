@@ -1,16 +1,60 @@
-## Hi there 👋
+# Hi, I'm Jash Damani
 
-<!--
-**jashdamani22/jashdamani22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Masters in Analytics & Management student interested in Data Science, Machine Learning, AI and Analytics.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* MSc Analytics & Management
+* Interested in Data Science, Machine Learning, AI and Product
+* Strong foundation in statistics, analytics and business problem solving
+* Currently building a portfolio of end-to-end analytics projects
+
+## Featured Projects
+
+### Demand Forecasting
+
+Coming soon
+
+### Recommendation Systems
+
+Coming soon
+
+### Generative AI Applications
+
+Coming soon
+
+### Data Visualisation
+
+Coming soon
+
+## Technical Skills
+
+**Languages**
+
+* Python
+* SQL
+
+**Libraries**
+
+* Pandas
+* NumPy
+* Scikit-Learn
+* XGBoost
+
+**Data Visualisation**
+
+* Matplotlib
+* Seaborn
+* Plotly
+
+**Tools**
+
+* Git
+* GitHub
+* Jupyter Notebook
+* VS Code
+
+## Contact
+
+* LinkedIn: https://www.linkedin.com/in/jash-damani/
+* Email: jdamani.mam2026@london.edu
